@@ -1,22 +1,22 @@
 # WebSpider0403
 My object thumb
 ## The spider source code in Pycharm.
-GetCityInfo.py\n
-UrlSeed.py
-GetWeatherData.py
-ToCsv.py
-RunThis.py
-SourceData.csv --同下--
+GetCityInfo.py  
+UrlSeed.py  
+GetWeatherData.py  
+ToCsv.py  
+RunThis.py  
+SourceData.csv --同下--  
 ## Show data in Jupyter
-1.ClearData.ipynb
-2.DataScreen.ipynb
-3.DataBy2019.ipynb
-4.AllYearsData.ipynb
-5.Line.ipynb
-6.WeatherCountPie.ipynb
-7.Pool.ipynb
-FinalData.csv
-SourceData.csv  --同上--
+1.ClearData.ipynb  
+2.DataScreen.ipynb  
+3.DataBy2019.ipynb  
+4.AllYearsData.ipynb  
+5.Line.ipynb  
+6.WeatherCountPie.ipynb  
+7.Pool.ipynb  
+FinalData.csv  
+SourceData.csv  --同上--  
 ## 结果在ResultData
 数据分析时一共提出了几个问题:
 1. 哈尔滨从2011年到2019年所有年份的温度走向是什么样的?
